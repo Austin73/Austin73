@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web development.
 - 🤔 I’m looking for help with Express
 - 💬 Ask me about front end development and other tech stuff
-- 📫 How to reach me:Linkedln @mkp
+- 📫 How to reach me:Linkedln
 - 😄 Pronouns:He/His
 - ⚡
 

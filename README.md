@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maneesh Kumar Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 - 🔭 I’m currently working on **E-Commerce Project using MERN Stack**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pedantic-wilson-64c5cc.netlify.app/](https://pedantic-wilson-64c5cc.netlify.app/)
 
-- 💬 Ask me about **react ,Java**
+- 💬 Ask me about **react ,Java,NodeJs**
 
 - 📫 How to reach me **maneeshpal85@gmail.com**
 
